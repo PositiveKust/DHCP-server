@@ -1,0 +1,22 @@
+C:\Users\Kust\source\repos\DHCP_Server_KP_Project\DHCP_Server_KP_Project\bin\Debug\DHCP_Server_KP_Project.exe.config
+C:\Users\Kust\source\repos\DHCP_Server_KP_Project\DHCP_Server_KP_Project\bin\Debug\DHCP_Server_KP_Project.exe
+C:\Users\Kust\source\repos\DHCP_Server_KP_Project\DHCP_Server_KP_Project\bin\Debug\DHCP_Server_KP_Project.pdb
+C:\Users\Kust\source\repos\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.csproj.AssemblyReference.cache
+C:\Users\Kust\source\repos\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.MainForm.resources
+C:\Users\Kust\source\repos\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.Properties.Resources.resources
+C:\Users\Kust\source\repos\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.csproj.GenerateResource.cache
+C:\Users\Kust\source\repos\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.csproj.CoreCompileInputs.cache
+C:\Users\Kust\source\repos\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.exe
+C:\Users\Kust\source\repos\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.pdb
+C:\Users\Kust\Desktop\Студенту\Вычислительные системы, сети и телекоммуникации 3-5 сем\Курсовая работа 5 семестр\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.csproj.AssemblyReference.cache
+C:\Users\Kust\Desktop\Студенту\Вычислительные системы, сети и телекоммуникации 3-5 сем\Курсовая работа 5 семестр\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.MainForm.resources
+C:\Users\Kust\Desktop\Студенту\Вычислительные системы, сети и телекоммуникации 3-5 сем\Курсовая работа 5 семестр\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.Properties.Resources.resources
+C:\Users\Kust\Desktop\Студенту\Вычислительные системы, сети и телекоммуникации 3-5 сем\Курсовая работа 5 семестр\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.csproj.GenerateResource.cache
+C:\Users\Kust\Desktop\Студенту\Вычислительные системы, сети и телекоммуникации 3-5 сем\Курсовая работа 5 семестр\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.csproj.CoreCompileInputs.cache
+C:\Users\Kust\Desktop\Студенту\Вычислительные системы, сети и телекоммуникации 3-5 сем\Курсовая работа 5 семестр\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.exe
+C:\Users\Kust\Desktop\Студенту\Вычислительные системы, сети и телекоммуникации 3-5 сем\Курсовая работа 5 семестр\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.pdb
+C:\Users\Kust\Desktop\Студенту\Вычислительные системы, сети и телекоммуникации 3-5 сем\Курсовая работа 5 семестр\DHCP_Server_KP_Project\DHCP_Server_KP_Project\bin\Debug\DHCP_Server_KP_Project.exe.config
+C:\Users\Kust\Desktop\Студенту\Вычислительные системы, сети и телекоммуникации 3-5 сем\Курсовая работа 5 семестр\DHCP_Server_KP_Project\DHCP_Server_KP_Project\bin\Debug\DHCP_Server_KP_Project.exe
+C:\Users\Kust\Desktop\Студенту\Вычислительные системы, сети и телекоммуникации 3-5 сем\Курсовая работа 5 семестр\DHCP_Server_KP_Project\DHCP_Server_KP_Project\bin\Debug\DHCP_Server_KP_Project.pdb
+C:\Users\Kust\Desktop\Студенту\Вычислительные системы, сети и телекоммуникации 3-5 сем\Курсовая работа 5 семестр\DHCP_Server_KP_Project\DHCP_Server_KP_Project\obj\Debug\DHCP_Server_KP_Project.TableRezervingIPForm.resources
+C:\Users\Kust\Desktop\Студенту\Вычислительные системы, сети и телекоммуникации 3-5 сем\Курсовая работа 5 семестр\DHCP_Server_KP_Project\DHCP_Server_KP_Project\bin\Debug\HelpOS.chm

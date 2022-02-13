@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHCP_Server_KP_Project", "DHCP_Server_KP_Project\DHCP_Server_KP_Project.csproj", "{0BC9A971-502B-4B2B-8370-D8BF37740126}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DHCP_Server_KP_Setup", "DHCP_Server_KP_Setup\DHCP_Server_KP_Setup.vdproj", "{56E2ABD6-CE0C-41C3-98CE-32F428B933D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BC9A971-502B-4B2B-8370-D8BF37740126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC9A971-502B-4B2B-8370-D8BF37740126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC9A971-502B-4B2B-8370-D8BF37740126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC9A971-502B-4B2B-8370-D8BF37740126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E2ABD6-CE0C-41C3-98CE-32F428B933D0}.Debug|Any CPU.ActiveCfg = Debug
+		{56E2ABD6-CE0C-41C3-98CE-32F428B933D0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36808FBA-E250-411C-B64D-624A7622B25B}
+	EndGlobalSection
+EndGlobal
